@@ -1,0 +1,17 @@
+Okay, let me first simply brief my requirement. This is very simple like when we give the requirement, it was taking a more time by creating documentations, then approvals and all. So I want a I automated some website.
+Where whichever conversation we are doing, just to discussing the business requirement and all, it will taking care by the a I and there will be some provision that human can approves the requirements and all, and then we can proceed with the developments.
+I believe that will reduce our time and we will deliver this picture to our customer at a very limited time.
+
+Biswambhar Pal   1:50
+Okay, so are you thinking about some solutions specific to some specific team or you are thinking about some enterprise get solution?
+
+Owendrila Saha   2:02
+Actually, I want some enterprise related solution because then also we can sell this product. If my agent is working fine, then we will sell those product to different different organization.
+
+Biswambhar Pal   2:16
+Okay, so you need some website that is your first requirement and in the website you will be uploading or like from the website you will be accessing the any kind of discussion which is happens at the beginning stage with the business and stakeholders.
+And from that specific discussion, only all pre development activities like any kind of documentations and everything will be generated automatically. And as you mentioned, like human approval system also you required so some human in loop or human review system you required before finally approving the.
+Documentations and all the things, right?
+
+Owendrila Saha
+Yes, you are correct.
