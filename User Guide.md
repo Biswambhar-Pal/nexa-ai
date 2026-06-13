@@ -90,7 +90,6 @@ Review prompt versioning, pipeline configuration, processing status, and governa
 - **Power Automate:** Workflow orchestration, approvals, and status tracking
 - **Copilot Studio + AI Prompts:** Agentic AI and artifact generation
 - **Microsoft Entra ID:** Secure sign-in
-- **SharePoint / OneDrive:** Document storage
 - **Jira / Azure DevOps ready:** Downstream delivery integration path
 
 ---
