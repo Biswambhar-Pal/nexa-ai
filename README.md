@@ -21,6 +21,7 @@
 | **Data Layer** | Microsoft Dataverse |
 | **Identity** | Microsoft Entra ID |
 | **Delivery Integration** | Jira |
+|**Demo URL**|[Live Demo Walkthrough](https://youtu.be/9KQd5s89tso)|
 
 ---
 
