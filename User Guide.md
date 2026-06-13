@@ -67,7 +67,7 @@ Review project activity, transcript processing, generated artifacts, and approva
 Create or open a project. The project becomes the parent workspace connecting transcripts, AI outputs, approvals, and processing history.
 
 ### 4. Transcript Upload
-Upload a requirement transcript or business discussion note. This becomes the source context for AI-assisted artifact generation.
+Upload a requirement transcript (You can download "SampleTranscript.txt" from this github reposatory)or business discussion note. This becomes the source context for AI-assisted artifact generation.
 
 ### 5. Processing Pipeline
 Track the transcript as it moves through ingestion, AI processing, draft generation, review, and approval stages. Power Automate orchestrates this workflow.
