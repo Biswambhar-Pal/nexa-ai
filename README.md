@@ -636,26 +636,6 @@ Use the admin console to review operational controls such as prompt versioning, 
 
 ---
 
-### 9.8 Suggested Demo Talk Track
-
-Use the following short talk track while showing the portal:
-
-```text
-Nexa.ai starts with a secure Power Pages portal where business users can create a project and upload requirement transcripts.
-
-Once a transcript is submitted, Power Automate orchestrates the ingestion pipeline, stores metadata in Dataverse, and triggers the AI processing layer.
-
-Copilot Studio agents and AI prompts then convert the raw business discussion into structured delivery artifacts for business analysts, scrum teams, technical leads, and QA teams.
-
-The generated outputs remain connected to the original project and transcript, giving teams traceability from discussion to execution.
-
-Before anything is exported or synchronized downstream, reviewers can approve, reject, or request changes through a human-in-the-loop approval process.
-
-This makes Nexa.ai a governed AI workspace for turning scattered requirement conversations into delivery-ready intelligence.
-```
-
----
-
 ## 🔐 10. Security and Governance
 
 Nexa.ai is designed with enterprise governance principles in mind.
